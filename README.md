@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thejake2112
-- 👀 I’m interested in Machine Learning, Full Stack Developement, and embedded programming.
-- 🌱 I’m currently learning OpenGL, OpenCV, TensorFlow, and cool Robotics stuff.
+- 👀 I’m interested in Machine Learning, Full Stack Developement, embedded programming, and cool Robotics stuff.
+- 🌱 I’m currently learning OpenGL, OpenCV, and TensorFlow.
 - 💞️ I’m looking to collaborate on any fun and interesting projects
 - 📫 How to reach me: rhodej13@my.erau.edu
 
